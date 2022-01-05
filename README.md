@@ -1,2 +1,2 @@
 # name
-cs go
+cs
